@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\Documents\LUUBAI\OOP Cua Crush\OOP Cua Crush\bin\Debug\OOP Cua Crush.exe.config
+C:\Users\ASUS\Documents\Documents\LUUBAI\OOP Cua Crush\OOP Cua Crush\bin\Debug\OOP Cua Crush.exe
+C:\Users\ASUS\Documents\Documents\LUUBAI\OOP Cua Crush\OOP Cua Crush\bin\Debug\OOP Cua Crush.pdb
+C:\Users\ASUS\Documents\Documents\LUUBAI\OOP Cua Crush\OOP Cua Crush\obj\Debug\OOP Cua Crush.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Documents\LUUBAI\OOP Cua Crush\OOP Cua Crush\obj\Debug\OOP Cua Crush.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Documents\LUUBAI\OOP Cua Crush\OOP Cua Crush\obj\Debug\OOP Cua Crush.exe
+C:\Users\ASUS\Documents\Documents\LUUBAI\OOP Cua Crush\OOP Cua Crush\obj\Debug\OOP Cua Crush.pdb
