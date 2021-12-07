@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\LUUBAI\\QuanLyThuVien\\QuanLyThuVien.csproj": {}
+    "D:\\Github\\CSharp-Project\\QuanLyThuVien\\QuanLyThuVien.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\LUUBAI\\QuanLyThuVien\\QuanLyThuVien.csproj": {
+    "D:\\Github\\CSharp-Project\\QuanLyThuVien\\QuanLyThuVien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\LUUBAI\\QuanLyThuVien\\QuanLyThuVien.csproj",
+        "projectUniqueName": "D:\\Github\\CSharp-Project\\QuanLyThuVien\\QuanLyThuVien.csproj",
         "projectName": "QuanLyThuVien",
-        "projectPath": "D:\\Documents\\LUUBAI\\QuanLyThuVien\\QuanLyThuVien.csproj",
+        "projectPath": "D:\\Github\\CSharp-Project\\QuanLyThuVien\\QuanLyThuVien.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\LUUBAI\\QuanLyThuVien\\obj\\",
+        "outputPath": "D:\\Github\\CSharp-Project\\QuanLyThuVien\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -66,7 +66,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

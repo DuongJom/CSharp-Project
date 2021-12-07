@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gp/AxHjp3ccx3Z5nA2ixTqP7yMXb1lhu2eitahR3ePgIC4r88RLlsLmilhvi76J31yztpDLFPO6q30NFROH8BQ==",
+  "dgSpecHash": "74UMpMn+tPP9fq6TeowyXiO8/JFajoh6W6QA4Ty6K7wtWSwkFxN5ALEN312xHvKHNew0biLIMx9zi1LbtX7LiA==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\LUUBAI\\QuanLyThuVien\\QuanLyThuVien.csproj",
+  "projectFilePath": "D:\\Github\\CSharp-Project\\QuanLyThuVien\\QuanLyThuVien.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

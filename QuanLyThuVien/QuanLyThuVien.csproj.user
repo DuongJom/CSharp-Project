@@ -16,6 +16,9 @@
     <Compile Update="Register.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="TimKiem.cs">
       <SubType>Form</SubType>
     </Compile>
